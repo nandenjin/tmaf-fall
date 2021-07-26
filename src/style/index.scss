@@ -7,3 +7,10 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.renderer,
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
